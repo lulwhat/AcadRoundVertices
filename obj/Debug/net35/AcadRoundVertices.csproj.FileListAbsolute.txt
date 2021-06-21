@@ -1,0 +1,8 @@
+C:\Users\lulwh\UG_work\AcadRoundVertices\bin\Debug\net35\AcadRoundVertices.dll
+C:\Users\lulwh\UG_work\AcadRoundVertices\bin\Debug\net35\AcadRoundVertices.pdb
+C:\Users\lulwh\UG_work\AcadRoundVertices\obj\Debug\net35\AcadRoundVertices.csprojAssemblyReference.cache
+C:\Users\lulwh\UG_work\AcadRoundVertices\obj\Debug\net35\AcadRoundVertices.AssemblyInfoInputs.cache
+C:\Users\lulwh\UG_work\AcadRoundVertices\obj\Debug\net35\AcadRoundVertices.AssemblyInfo.cs
+C:\Users\lulwh\UG_work\AcadRoundVertices\obj\Debug\net35\AcadRoundVertices.csproj.CoreCompileInputs.cache
+C:\Users\lulwh\UG_work\AcadRoundVertices\obj\Debug\net35\AcadRoundVertices.dll
+C:\Users\lulwh\UG_work\AcadRoundVertices\obj\Debug\net35\AcadRoundVertices.pdb

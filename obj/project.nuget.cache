@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ig75ZIAEpd0lyAAaTSXcTYTH5S3nAq9yz9YfOGYnqpLNgt6A45qAQhwuM1IwwdWJk3P1aYydRA/w07ee05MOaQ==",
+  "dgSpecHash": "8RaZTJIRayQQWGk9sPGIWBmQaRV2e6a/oCN8u5wHwNRbkdk+nt7+DjGPZt5PQQJDHpsFLuoYvdxGnF/cPH7FSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baidak\\acad_py_scripts\\AcadRoundVertices\\AcadRoundVertices.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\baidak\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
-    "C:\\Users\\baidak\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.0\\microsoft.netframework.referenceassemblies.net47.1.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\lulwh\\UG_work\\AcadRoundVertices\\AcadRoundVertices.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
